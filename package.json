@@ -32,6 +32,6 @@
   "devDependencies": {
     "browserify": "^14.4.0",
     "html-minifier": "^3.5.2",
-    "jsdom": "^11.0.0"
+    "jsdom": "^16.5.0"
   }
 }
